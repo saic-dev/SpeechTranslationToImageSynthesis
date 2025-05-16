@@ -1,0 +1,2 @@
+# SpeechTranslationToImageSynthesis
+MyMinorProject
